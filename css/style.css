@@ -1,3 +1,6 @@
 body {
-	background-color: gray;
+	background: linear-gradient(to right top,#8ac7b2,#96bccc,#ffd5dc,#fffcbb);
+	color: #000;
+	text-align: center;
+	padding-top: 50px;
 }

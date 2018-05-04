@@ -16,7 +16,7 @@ var triangleArea = a*h/2;
 }
 
 // 4.
-console.log(getTriangleArea(1,1));
+console.log(getTriangleArea(10,10));
 
 // 5.
 console.log(triangle1Area);
